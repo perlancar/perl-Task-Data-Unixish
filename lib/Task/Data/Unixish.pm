@@ -13,6 +13,6 @@ This task will install all Data::Unixish modules.
 
 =pkg Data::Unixish
 
-=pkg Data::Unixish::Implementation
+=pkg Unixish
 
 =cut
