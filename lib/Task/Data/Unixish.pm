@@ -11,6 +11,8 @@ This task will install all Data::Unixish modules.
 
 =pkgroup Included modules
 
+=pkg App::dux
+
 =pkg Data::Unixish
 
 =pkg Unixish
