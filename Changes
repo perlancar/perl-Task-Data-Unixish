@@ -2,14 +2,14 @@ Revision history for Task-Data-Unixish
 
 0.03    2012-08-08 (SHARYANTO)
 
-        + App::dux.
+        - App::dux.
 
 
 0.02    2012-08-01 (SHARYANTO)
 
-        Update dist names.
+        - Update dist names.
 
 
 0.01    2012-07-13 (SHARYANTO)
 
-        First release.
+        - First release.
